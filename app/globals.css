@@ -51,5 +51,5 @@ body {
 }
 
 .gradient-bg-image {
-  background-image: url("./assets/gradient_background.png");
+  background-image: url("../public/assets/gradient_background.png");
 }

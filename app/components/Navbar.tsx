@@ -1,5 +1,5 @@
 import React from 'react';
-import {logo} from '../assets';
+import {logo} from '../../public/assets';
 import Image from 'next/image';
 
 

@@ -12,7 +12,7 @@ import {
     icon1,
     cpuChip,
     icon2,
-  } from "../assets";
+  } from "../../public/assets";
   
 
 const Profile=()=> {
