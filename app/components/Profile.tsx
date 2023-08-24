@@ -18,7 +18,7 @@ const Profile=()=> {
             <h1
               className={`flex-1 ${styles.flexStart}font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[120.8px] leading-[75px] w-full1`}
             >
-              LOREM IPSUMY
+              LOREM IPSUM
             </h1>
           </div>
           <section
@@ -49,7 +49,7 @@ const Profile=()=> {
     
             <div className="flex-col xl:px-0 sm:px-8 px-6">
               <h1 className="font-poppins font-semibold ss:text-[18px] text-[17.38px] text-white ss:leading-[0.1px] leading-[75px] w-full">
-                LOREM IPSUMY DOLOR SIT
+                LOREM IPSUM DOLOR SIT
               </h1>
               <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
                 Dolor adipiscing condimentum aliquam nullam mauris ante ipsum vel
@@ -80,7 +80,7 @@ const Profile=()=> {
             <h1
               className={`flex-1 ${styles.flexEnd} font-poppins font-semibold ss:text-[18px] text-[17.38px] text-white ss:leading-[0.1px] leading-[75px]`}
             >
-              LOREM IPSUMY DOLOR SIT
+              LOREM IPSUM DOLOR SIT
             </h1>
             <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
               Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -105,7 +105,7 @@ const Profile=()=> {
           >
             <div className="flex-col xl:px-0 sm:px-8 px-6">
               <h1 className="font-poppins font-semibold ss:text-[18px] text-[17.38px] text-white ss:leading-[0.1px] leading-[75px] w-full">
-                LOREM IPSUMY
+                LOREM IPSUM
               </h1>
               <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
                 Sed ut perspiciatis unde omnis iste natus error sit voluptatem

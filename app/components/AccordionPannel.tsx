@@ -49,7 +49,7 @@ export default function AccordionPannel() {
 			<h1
 				className={`flex-1 ${styles.flexStart}font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[120.8px] leading-[75px] w-full1`}
 			>
-				LOREM IPSUMY DOLOR
+				LOREM IPSUM DOLOR
 			</h1>
 		</div>
 		{/* <div className="px-[12px] py-[60px] md:px-[200px] md:py-[100px]"> */}

@@ -20,7 +20,7 @@ const Banner = ()=> {
     <section id="product" className={layout.sectionReverse}>
       <div className="flex-col xl:px-0 sm:px-8 px-6">
         <h1 className="font-poppins font-semibold ss:text-[18px] text-[17.38px] text-white ss:leading-[0.1px] leading-[75px] w-full">
-          LOREM IPSUMY DOLOR
+          LOREM IPSUM DOLOR
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
