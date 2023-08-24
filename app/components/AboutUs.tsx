@@ -1,6 +1,6 @@
 import React from 'react';
 import styles, { layout } from "../style";
-import { aboutUS, banner } from "../assets";
+import { aboutUS } from "../assets";
 import Image from 'next/image'
 
 const AboutUs = () => (
@@ -32,13 +32,6 @@ const AboutUs = () => (
         </p>
       </div>
     </section>
-    {/* <div className="flex-col xl:px-0 sm:px-8 px-6 sm:py-16 py-6">
-      <Image
-        src={banner}
-        alt="coke"
-        className="w-[100%] h-[100%] relative z-[5]"
-      />
-    </div> */}
   </>
 );
 export default AboutUs;

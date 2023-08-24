@@ -1,6 +1,6 @@
 "use client";
 import React, { useState} from 'react';
-import {collapse,expand,banner} from '../assets';
+import {collapse,expand} from '../assets';
 import styles , {layout} from '../style';
 import Image from 'next/image';
 

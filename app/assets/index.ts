@@ -2,7 +2,6 @@ import logo from "./logo.png";
 import topLeftImg from "./TopLeftImg.png";
 import bottomImg from "./BottomImg.png";
 import aboutUS from "./AboutUS.png";
-import banner from "./Banner.png";
 import bottomImg1 from "./BottomImg1.png";
 import barChartCircle from "./bar-chart-circle.png";
 import cpuChip from "./cpu-chip.png";
@@ -22,7 +21,6 @@ export {
   topLeftImg,
   bottomImg,
   aboutUS,
-  banner,
   bottomImg1,
   barChartCircle,
   cpuChip,
