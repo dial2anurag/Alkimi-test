@@ -1,7 +1,8 @@
 "use client";
 import React, { useState} from 'react';
-import {collapse,expand} from '../../public/assets';
-import styles , {layout} from '../style';
+import collapse from '../../public/assets/minus.svg';
+import expand from '../../public/assets/plus.svg';
+import styles  from '../style';
 import Image from 'next/image';
 
 export default function AccordionPannel() {

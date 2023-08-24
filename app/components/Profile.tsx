@@ -1,19 +1,15 @@
 import React from 'react';
 import styles from "../style";
 import Image from 'next/image';
-
-import {
-  topLeftImg,
-  bottomImg,
-  bottomImg1,
-    usersPlus,
-    icon,
-    target,
-    icon1,
-    cpuChip,
-    icon2,
-  } from "../../public/assets";
-  
+import topLeftImg from '../../public/assets/TopLeftImg.png';
+import bottomImg from '../../public/assets/BottomImg.png';
+import bottomImg1 from '../../public/assets/BottomImg1.png';
+import usersPlus from '../../public/assets/users-plus.png';
+import icon from '../../public/assets/Icon.png';
+import target from '../../public/assets/target.png';
+import icon1 from '../../public/assets/Icon1.png';
+import icon2 from '../../public/assets/Icon2.png';
+import cpuChip from '../../public/assets/cpu-chip.png';
 
 const Profile=()=> {
     return (

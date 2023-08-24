@@ -1,5 +1,8 @@
 import React from 'react';
-import { bottomImg1, icon3, icon4, barChartCircle } from "../../public/assets";
+import bottomImg1 from '../../public/assets/BottomImg1.png';
+import icon3 from '../../public/assets/Icon3.png';
+import icon4 from '../../public/assets/Icon4.png';
+import barChartCircle from '../../public/assets/bar-chart-circle.png';
 import styles, { layout } from "../style";
 import Image from 'next/image';
 

@@ -1,6 +1,6 @@
 import React from 'react';
 import styles, { layout } from "../style";
-import { aboutUS } from "../../public/assets";
+import aboutUS from '../../public/assets/AboutUS.png';
 import Image from 'next/image'
 
 const AboutUs = () => (
